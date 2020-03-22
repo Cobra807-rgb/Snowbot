@@ -1,0 +1,2 @@
+# Snowbot
+SnowDesigns discord bot
